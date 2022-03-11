@@ -1,1 +1,4 @@
-A Simple Demo to practice on **React.memo()** and **useCallback()**
+A Simple Demo to practice on:
+
+- Improvig performance and prevent unnecessary component re-evaluation using **React.memo()**
+- Memoization using **useCallback()**
